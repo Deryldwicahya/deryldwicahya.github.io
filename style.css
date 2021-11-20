@@ -17,3 +17,8 @@ font-style: italic;
 font-family: 'Oswald', sans-serif !important;
 }
 
+@media only screen and (max-width: 600px) {
+    .ini-aku {
+        padding:0% 15% 0% 0%;
+    }
+}
